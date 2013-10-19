@@ -22,7 +22,11 @@ Test
 ====
 
 $('body').notif({
-	title:'Alert', 
+
+	title:'Alert',
+	
 	content:"You're hired !!",
-	timeout:4000		
+	
+	timeout:4000
+	
 });
