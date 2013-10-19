@@ -21,6 +21,8 @@ Vous n'avez qu'à importer les fichiers et repertoires suivants:
 Test
 ====
 
+<script>
+
 $('body').notif({
 
 	title:'Alert',
@@ -30,3 +32,5 @@ $('body').notif({
 	timeout:4000
 	
 });
+
+</script>
